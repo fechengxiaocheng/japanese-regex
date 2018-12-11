@@ -1,6 +1,6 @@
 # Japanese Regex
 
-japanese-regex包中统一了表单中需要校验的日本字段(如片假名)的正则表达式。
+[japanese-regex包](https://www.npmjs.com/package/japanese-regex)中统一了表单中需要校验的日本字段(如片假名)的正则表达式。
 
 ## 使用方法
 
