@@ -25,21 +25,3 @@ console.log(halfWidthKatakanas.test('ｺｻｼｽｾｿﾀ'));
 | 半角数字 | halfWidthNumbers | '123' |
 | 全角片假名 | fullWidthKatakanas | 'コン一' |
 | 半角片假名 | halfWidthKatakanas | 'ｺｻｼｽｾｿﾀ一' |
-
-## 报错信息国际化字段列表
-
-字段名 |  内容 |
-|---|---|
-csvLessThan10	| 支持.csv格式，文件大小不能超过10MB
-fileFormatNotSupported	| 文件格式不支持
-pleaseUpload	| 请上传
-pleaseInputCorrectFormat |	请输入正确格式
-fullWidthText	| 请输入全角文字
-fullWidthAlphabetsNumbers	| 请输入全角英数字
-halfWidthAlphabetsNumbers | 	请输入半角英数字
-fullWidthAlphabets	| 请输入全角英文字符
-halfWidthAlphabets	| 请输入半角英文字符
-fullWidthNumbers	| 请输入全角数字
-halfWidthNumbers	| 请输入半角数字
-fullWidthKatakanas	| 请输入全角片假名
-halfWidthKatakanas	| 请输入半角片假名
